@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:49:45 PM On 4/25/2021
+
+Output: 28Pins_BOM_Purchasing
+Type  : BOM
+From  : Variant [[No Variations]] of Project [28PinArduino.PrjPCB]
+   Generated File[28Pins_BOM_Purchasing-28PinArduino.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:50:16 PM On 4/25/2021
