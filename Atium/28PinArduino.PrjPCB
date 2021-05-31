@@ -173,21 +173,38 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document9]
+DocumentPath=28Pins_Project_V1l1_PCB.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CJSYVSQJ
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for 28PinArduino\BOM\28Pins_BOM_Purchasing-28PinArduino.xls
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Title
-Value=28 Pins
+Name=Company
+Value=(c) 2021 FEDEVEL Academy
 
 [Parameter2]
 Name=NotFitted
 Value=NN
 
 [Parameter3]
-Name=Company
-Value=(c) 2021 FEDEVEL Academy
+Name=Title
+Value=28 Pins
 
 [Configuration1]
 Name=Sources
