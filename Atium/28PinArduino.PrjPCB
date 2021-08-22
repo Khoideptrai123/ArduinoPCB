@@ -194,17 +194,25 @@ DocumentUniqueId=CJSYVSQJ
 DocumentPath=Project Outputs for 28PinArduino\BOM\28Pins_BOM_Purchasing-28PinArduino.xls
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for 28PinArduino\Design Rule Check - 28Pins_Project_V1l1_PCB.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=Company
-Value=(c) 2021 FEDEVEL Academy
+Name=VersionRevision
+Value=V1I1
 
 [Parameter2]
+Name=Title
+Value=28 Pins
+
+[Parameter3]
 Name=NotFitted
 Value=NN
 
-[Parameter3]
-Name=Title
-Value=28 Pins
+[Parameter4]
+Name=Company
+Value=(c) 2021 FEDEVEL Academy
 
 [Configuration1]
 Name=Sources

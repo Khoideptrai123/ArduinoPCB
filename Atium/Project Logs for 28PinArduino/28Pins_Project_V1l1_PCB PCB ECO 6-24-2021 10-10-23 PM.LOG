@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=16U2_328P_RESETn Pin=D2-1
+Removed Pin From Net: NetName=16U2_328P_RESETn Pin=U1-10
+Change Net Color : Old Net Color=RGB(218, 36, 103) New Net Color=Default
+Change Net Color : Old Net Color=RGB(247, 120, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 0, 180) New Net Color=Default
+Added Pin To Net: NetName=16U2_RX_LED Pin=D2-1
+Added Pin To Net: NetName=16U2_RX_LED Pin=U1-10
+Added Net: Name=16U2_RX_LED
